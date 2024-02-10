@@ -18,7 +18,7 @@ The programming component of the project involves the understanding and usage of
 
 - **hw08:** Outlines the objective. For this project you will use proportional control to implement line following. Do NOT do the graphing portion of this assignment.
 - **gazelle_sim_line_course:** Necessary to run the simulation environment. Move to catkin_ws/src.
-- **hw08_lastame:** A semi-completed structure for your project.
+- **hw08_lastname:** A semi-completed structure for your project.
 
 #### /resources
 
