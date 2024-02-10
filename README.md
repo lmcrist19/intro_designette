@@ -2,7 +2,7 @@
 
 ## Objective
 
-The primary goal of this project is to successfully execute a comprehensive Mechanical and Programming project.
+The primary goal of this project is to successfully execute comprehensive Mechanical and Programming projects.
 
 ## Project Description
 
