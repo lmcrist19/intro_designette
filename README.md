@@ -14,7 +14,7 @@ The mechanical component of the project involves the design, fabrication, and im
 
 The programming component of the project involves the understanding of Linux/Ubuntu, ROS, and Python. The focal point of this repository will be this portion of the Designette. Below outlines the directories:
 
-#### resources
+#### 'resources'
 
 - Install Ubuntu using VirtualBox (00_Software_Installation)
 - Useful commands for Ubuntu (01_Introduction_to_Ubuntu)
