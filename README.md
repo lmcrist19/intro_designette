@@ -16,11 +16,11 @@ The programming component of the project involves the understanding of Linux/Ubu
 
 #### resources
 
--Install Ubuntu using VirtualBox (00_Software_Installation)
--Useful commands for Ubuntu (01_Introduction_to_Ubuntu)
--Understand ROS and the environment (02_Getting_Started_with_ROS)
--References for commonly used applications of the following: Python, NumPy, Matplotlib (Introduction_to_....)
--Creating a ROS workspace (03_Writing_ROS_Programs_Python)
--Understanding the dynamic reconfigure (Dynamic_Reconfigure)
--Necessary resources for the completion of the project (Color_Spaces, Computer_Vision_Adv)
+- Install Ubuntu using VirtualBox (00_Software_Installation)
+- Useful commands for Ubuntu (01_Introduction_to_Ubuntu)
+- Understand ROS and the environment (02_Getting_Started_with_ROS)
+- References for commonly used applications of the following: Python, NumPy, Matplotlib (Introduction_to_....)
+- Creating a ROS workspace (03_Writing_ROS_Programs_Python)
+- Understanding the dynamic reconfigure (Dynamic_Reconfigure)
+- Necessary resources for the completion of the project (Color_Spaces, Computer_Vision_Adv)
 
