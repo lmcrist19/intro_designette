@@ -12,7 +12,7 @@ The mechanical component of the project involves the design, fabrication, and im
 
 ### Programming Component
 
-The programming component of the project involves the understanding of Linux/Ubuntu, ROS, and Python. The focal point of this repository will be this portion of the Designette. Below outlines the directories:
+The programming component of the project involves the understanding of Linux/Ubuntu, ROS, and Python. The focal point of this repository will be this portion of the Designette. Reach out to the current IGVC team when you have questions. Below outlines the directories:
 
 #### /programming
 
